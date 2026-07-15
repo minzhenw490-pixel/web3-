@@ -1,3 +1,4 @@
+<img width="1440" height="900" alt="截屏2026-07-15 18 31 56" src="https://github.com/user-attachments/assets/65069e86-13cc-4ceb-90c7-87805dff9e1e" />
 # 🧠 AI Collaboration Log — Week 2
 
 **课程：** Web3Career — 职业选择基础  
