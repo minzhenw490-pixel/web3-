@@ -139,4 +139,5 @@
 
 #### 截图示例
 
-> （运行后截图替换这里）<img width="1440" height="900" alt="截屏2026-07-17 15 20 09" src="https://github.com/user-attachments/assets/35ea843a-f6a1-4754-9258-b8c968b09ff7" />
+<img width="1440" height="900" alt="截屏2026-07-17 15 20 51" src="https://github.com/user-attachments/assets/57b63b63-85ab-4eb8-a535-1af83e5ca17a" />
+/>
