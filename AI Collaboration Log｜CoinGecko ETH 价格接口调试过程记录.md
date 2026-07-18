@@ -1,3 +1,4 @@
+<img width="3024" height="4032" alt="5c152a76897496e362a206b9fc050612" src="https://github.com/user-attachments/assets/e4d90cab-9aa7-406f-9629-a0ec2f9e30a9" />
 文档链接：
 https://docs.coingecko.com/reference/simple-price
 
