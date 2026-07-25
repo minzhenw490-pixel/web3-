@@ -16,8 +16,8 @@
 
 | 项目 | 内容 |
 |------|------|
-| **负责人** | 77（运营/PM） |
-| **具体成果** | ✅ 已完成 — Product Brief、Problem Card、竞品分析（Blowfish/Blockaid/Harpie）已整理入库 |
+| **负责人** | 77（运营/PM）+ Yu（Dev C） |
+| **具体成果** | ✅ 已完成 — Product Brief、Problem Card、竞品分析（Blowfish/Blockaid/Harpie）已整理入库；Yu 提供路线模拟数据支持 |
 | **交付时间** | ✅ Week 3 已完成 |
 | **协作对象** | 酷可可（设计参考图） |
 
